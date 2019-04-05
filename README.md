@@ -1,2 +1,2 @@
 # php
-My first php project on github
+My first project on github
